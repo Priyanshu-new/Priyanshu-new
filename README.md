@@ -79,8 +79,8 @@ I strive to bring together **design**, **performance**, and **real-world functio
 # 🔗 Connect With Me
 
 - 🌐 **Portfolio:** https://my-first-protfolio-lemon.vercel.app  
-- 🔗 **LinkedIn:** *Add your link here*  
-- ✉️ **Email:** *Add your email here*
+- 🔗 **LinkedIn:** www.linkedin.com/in/priyanshu-kesharwani-7114b1322
+- ✉️ **Email:** priyanshukesharwani.offical@gamail.com
 
 ---
 
